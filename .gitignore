@@ -10,3 +10,8 @@ profiles.db
 # Ignore Python cache files
 __pycache__/
 *.pyc
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+
+# Ignore entire Streamlit config/secrets folder (safer)
+.streamlit/
