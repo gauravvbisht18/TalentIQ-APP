@@ -33,20 +33,6 @@
 
 ---
 
-## 🌐 Tech Stack
-
-| Layer | Technologies |
-|-------|---------------|
-| **Frontend** | React, TailwindCSS, Framer Motion |
-| **Backend** | Django, Django REST Framework |
-| **Database** | PostgreSQL / MongoDB |
-| **AI & NLP** | Python, Hugging Face Transformers, Scikit-learn |
-| **Vector Search** | FAISS / Pinecone |
-| **Authentication** | JWT Tokens |
-| **Hosting** | AWS / Render / Vercel |
-
----
-
 ## 🧩 Architecture Overview
 
 1. User uploads resume in PDF/DOCX format.  
